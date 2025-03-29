@@ -1,6 +1,9 @@
 -- Retail Sales Analysis SQL Project
+
 -- Project Overview
+
 -- Project Title: Retail Sales Analysis
+
 -- Database: sql_query_p01
 
 -- This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. 
